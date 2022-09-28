@@ -1,0 +1,99 @@
+---
+name: linear_algebra_en_phrase
+version: "2021.10.13"
+sort: by_weight
+use_preset_vocabulary: false
+...
+
+eigenvalue	eigenvalue
+cofactor expansion	cofactorexpansion
+similar matrices	similarmatrices
+basic solution set	basicsolutionset
+augmented matrix	augmentedmatrix
+elementary matrix	elementarymatrix
+partitioned matrix	partitionedmatrix
+quatratic form	quatraticform
+vector space	vectorspace
+echelon matrix	echelonmatrix
+Diagonal entries	Diagonalentries
+identity matrix	identitymatrix
+main diagonal of matrix	maindiagonalofmatrix
+orthonomal set	orthonomalset
+vector	vector
+linear combination	linearcombination
+positive definite quatratic form	positivedefinitequatraticform
+orthogonal basis	orthogonalbasis
+nontrivial solution	nontrivialsolution
+norm of vector	normofvector
+Cramer’s rule	Cramersrule
+row vector	rowvector
+adjugate of matrix	adjugateofmatrix
+full rank	fullrank
+positive definite matrix	positivedefinitematrix
+vandermonde matrix	vandermondematrix
+rank of matrix	rankofmatrix
+similarity transformation	similaritytransformation
+Determinant	Determinant
+trace of matrix	traceofmatrix
+singular matrix	singularmatrix
+indefinit quatratic form	indefinitquatraticform
+characteristic polynomial	characteristicpolynomial
+orthogonal set	orthogonalset
+consistent linear system	consistentlinearsystem
+unit vector	unitvector
+normalizing vector	normalizingvector
+commuting matrices	commutingmatrices
+inverse of matrix	inverseofmatrix
+standard matrix	standardmatrix
+Cauchy-Schwarz inequality	CauchySchwarzinequality
+zero subspace	zerosubspace
+linearly dependent	linearlydependent
+infinite-dimensional space	infinitedimensionalspace
+positive semidefinite quadratic form	positivesemidefinitequadraticform
+nonsigular matrix	nonsigularmatrix
+orthogonal decomposition	orthogonaldecomposition
+negative definite quaratic form	negativedefinitequaraticform
+lower triangular matrix	lowertriangularmatrix
+linearly independent	linearlyindependent
+symmetric matrix	symmetricmatrix
+inconsistent linear system	inconsistentlinearsystem
+linear transformation	lineartransformation
+cofactor	cofactor
+elementary row operations	elementaryrowoperations
+inner product	innerproduct
+grneral solution	grneralsolution
+transpose of	transposeof
+adjont of matrix	adjontofmatrix
+Cross- product term	Crossproductterm
+matrix	matrix
+orthogonal complement	orthogonalcomplement
+block diagonal matrix	blockdiagonalmatrix
+nonhomogeneous equations	nonhomogeneousequations
+upper triangular matrix	uppertriangularmatrix
+zero vector	zerovector
+eigenvector	eigenvector
+positive semidefinite matrix	positivesemidefinitematrix
+negative semidefinite quadratic form	negativesemidefinitequadraticform
+eigenvector basis	eigenvectorbasis
+fundermental set of solution	fundermentalsetofsolution
+block matrix	blockmatrix
+eigenspace	eigenspace
+indefinite matrix	indefinitematrix
+homogeneous linear equations	homogeneouslinearequations
+Diagonal matrix	Diagonalmatrix
+standard basis	standardbasis
+characteristic equation	characteristicequation
+triangle inequlity	triangleinequlity
+trivial solution	trivialsolution
+coffcient matrix	coffcientmatrix
+subspace	subspace
+reduced echelon matrix	reducedechelonmatrix
+solution set	solutionset
+orthonormal basis	orthonormalbasis
+set spanned by	setspannedby
+column vector	columnvector
+Dimension of a vector space	Dimensionofavectorspace
+submatrix	submatrix
+orthogonally diagonalizable matrix	orthogonallydiagonalizablematrix
+orthogonal matrix	orthogonalmatrix
+Gram-Schmidt process	GramSchmidtprocess

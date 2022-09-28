@@ -1,0 +1,340 @@
+---
+name: probability_zh
+version: "2021.10.13"
+sort: by_weight
+use_preset_vocabulary: false
+...
+
+计算	ji suan
+检验判据	jian yan pan ju
+百分数	bai fen shu
+参数	can shu
+三次项	san ci xiang
+对立假设	dui li jia she
+M估计	M gu ji
+处理	chu li
+回归系数	hui gui xi shu
+次序统计量	ci xu tong ji liang
+曲线估计	qu xian gu ji
+不可加性	bu ke jia xing
+方差分析	fang cha fen xi
+部分析因设计	bu fen xi yin she ji
+寿命	shou ming
+极大似然估计	ji da shi ran gu ji
+常数	chang shu
+对照	dui zhao
+多元回归分析	duo yuan hui gui fen xi
+个案	ge an
+线性回归	xian xing hui gui
+临界值	lin jie zhi
+等含量	deng han liang
+最小显著差数	zui xiao xian zhu cha shu
+PP概率图	PP gai lv tu
+偏相关	pian xiang guan
+标准差	biao zhun cha
+容许限	rong xu xian
+多元回归方程	duo yuan hui gui fang cheng
+S形曲线	S xing qu xian
+取样	qu yang
+调整的	tiao zheng de
+迭代	die dai
+期望	qi wang
+差异	cha yi
+类别	lei bie
+正相关	zheng xiang guan
+组	zu
+平方	ping fang
+自由度	zi you du
+复合的	fu he de
+线性模型	xian xing mo xing
+分类	fen lei
+转换	zhuan huan
+齐性检验	qi xing jian yan
+相关指数	xiang guan zhi shu
+检验统计量	jian yan tong ji liang
+比例	bi li
+主效应	zhu xiao ying
+test	test
+层	ceng
+柯尔莫哥洛夫斯米诺夫检验	ke er mo ge luo fu si mi nuo fu jian yan
+逻辑的	luo ji de
+指数	zhi shu
+诊断	zhen duan
+饼图	bing tu
+比较	bi jiao
+核	he
+正态分布	zheng tai fen bu
+无偏性	wu pian xing
+维	wei
+均值的标准误差	jun zhi de biao zhun wu cha
+频数	pin shuo
+稳健性	wen jian xing
+秩	zhi
+因素	yin su
+一致性	yi zhi xing
+F检验	F jian yan
+定义	ding yi
+组间的	zu jian de
+有效度	you xiao du
+倒数的	dao shu de
+聚类分析	ju lei fen xi
+方差	fang cha
+异常值	yi chang zhi
+加权	jia quan
+分量	fen liang
+距离	ju li
+均值	jun zhi
+四分位数	si fen wei shu
+复相关系数	fu xiang guan xi shu
+中心化杠杆值	zhong xin hua gang gan zhi
+显著的	xian zhu de
+预测区间	yu ce qu jian
+判别分析	pan bie fen xi
+可加性	ke jia xing
+强假设	qiang jia she
+成对样本	cheng dui yang ben
+可靠性	ke kao xing
+数据	shu ju
+卡方分布	ka fang fen bu
+贝塔分布	bei ta fen bu
+调和均值	tiao he jun zhi
+样本容量	yang ben rong liang
+方差比	fang cha bi
+中心趋势	zhong xin qu shi
+统计质量控制	tong ji zhi liang kong zhi
+混合模型	hun he mo xing
+似然函数	shi ran han shu
+回归线	hui gui xian
+无偏估计	wu pian gu ji
+默认的	mo ren de
+符号检验	fu hao jian yan
+显著性检验	xian zhu xing jian yan
+函数	han shu
+固定变量	gu ding bian liang
+重心	zhong xin
+大样本问题	da yang ben wen ti
+概率密度函数	gai lv mi du han shu
+优化的	you hua de
+随机数	sui ji shu
+回归分析	hui gui fen xi
+学生化剔除残差	xue sheng hua ti chu can cha
+试验设计	shi yan she ji
+方差来源	fang cha lai yuan
+次级样本	ci ji yang ben
+条形图	tiao xing tu
+标准离差	biao zhun li cha
+最大值	zui da zhi
+协方差矩阵	xie fang cha ju zhen
+方程	fang cheng
+不齐性	bu qi xing
+游程检验	you cheng jian yan
+成对观测数据	cheng dui guan ce shu ju
+共线性	gong xian xing
+表	biao
+平滑	ping hua
+假设检验	jia she jian yan
+均匀分布	jun yun fen bu
+非线性	fei xian xing
+截尾均值	jie wei jun zhi
+分布	fen bu
+最小二乘估计	zui xiao er cheng gu ji
+中位数	zhong wei shu
+最优配制	zui you pei zhi
+偏回归系数	pian hui gui xi shu
+单侧检验	dan ce jian yan
+模型	mo xing
+排序	pai xu
+总共	zong gong
+估计量	gu ji liang
+个案数	ge an shu
+独立	du li
+协方差	xie fang cha
+相等	xiang deng
+点估计	dian gu ji
+三次的	san ci de
+均方差	jun fang cha
+析因设计	xi yin she ji
+和	he
+行	xing
+加权平均值	jia quan ping jun zhi
+预测值	yu ce zhi
+QQ概率图	QQ gai lv tu
+主成分分析	zhu cheng fen fen xi
+多元分析	duo yuan fen xi
+刺激	ci ji
+游程	you cheng
+统计量	tong ji liang
+区间估计	qu jian gu ji
+有效数字	you xiao shu zi
+交互效应	jiao hu xiao ying
+重复的	chong fu de
+多重比较	duo zhong bi jiao
+带宽	dai kuan
+剔除残差	ti chu can cha
+样本空间	yang ben kong jian
+控制图	kong zhi tu
+变量	bian liang
+概括	gai kuo
+概率	gai lv
+非参数检验	fei can shu jian yan
+随机数种子	sui ji shu zhong zi
+绝对值	jue dui zhi
+列	lie
+二次项	er ci xiang
+偏倚	pian yi
+指数分布	zhi shu fen bu
+学生化残差	xue sheng hua can cha
+秩相关	zhi xiang guan
+水平	shui ping
+参数估计	can shu gu ji
+随机变量	sui ji bian liang
+偏相关系数	pian xiang guan xi shu
+质量控制	zhi liang kong zhi
+系数	xi shu
+单样本	dan yang ben
+偏度	pian du
+移动平均值	yi dong ping jun zhi
+峰度	feng du
+多项式	duo xiang shi
+抽样检验	chou yang jian yan
+密度函数	mi du han shu
+原点	yuan dian
+集合	ji he
+样本	yang ben
+线性检验	xian xing jian yan
+拟合线	ni he xian
+不同的	bu tong de
+误差	wu cha
+蒙特卡罗法	meng te ka luo fa
+有效性	you xiao xing
+线性项	xian xing xiang
+连续变量	lian xu bian liang
+t检验	t jian yan
+向量	xiang liang
+有效的	you xiao de
+精确值	jing que zhi
+析因试验	xi yin shi yan
+显著性水平	xian zhu xing shui ping
+秩统计量	zhi tong ji liang
+最小二乘法	zui xiao er cheng fa
+随机的	sui ji de
+检验函数	jian yan han shu
+完全析因设计	wan quan xi yin she ji
+不平衡的	bu ping heng de
+因子	yin zi
+小样本问题	xiao yang ben wen ti
+卡方检验	ka fang jian yan
+因子得分	yin zi de fen
+泊松分布	po song fen bu
+分析	fen xi
+接受	jie shou
+独立样本	du li yang ben
+逐步回归	zhu bu hui gui
+二次的	er ci de
+非线性回归	fei xian xing hui gui
+概率分析	gai lv fen xi
+多项式回归	duo xiang shi hui gui
+估计值	gu ji zhi
+估计	gu ji
+响应	xiang ying
+幂	mi
+组间相关	zu jian xiang guan
+拒绝	ju jue
+风险函数	feng xian han shu
+扩展	kuo zhan
+单独地	dan du di
+累加分布函数	lei jia fen bu han shu
+拟合值	ni he zhi
+因变量	yin bian liang
+假设	jia she
+对数	dui shu
+极值	ji zhi
+临界点	lin jie dian
+负相关	fu xiang guan
+多元共线性	duo yuan gong xian xing
+单向方差分析	dan xiang fang cha fen xi
+方差分量	fang cha fen liang
+伽玛分布	ga ma fen bu
+组内相关	zu nei xiang guan
+权重	quan zhong
+充分统计量	chong fen tong ji liang
+综述	zong shu
+时间序列	shi jian xu lie
+标准残差	biao zhun can cha
+相关系数	xiang guan xi shu
+寿命试验	shou ming shi yan
+随机化	sui ji hua
+协方差分析	xie fang cha fen xi
+标准化	biao zhun hua
+齐性	qi xing
+拟合优度检验	ni he you du jian yan
+检验法则	jian yan fa ze
+列联表	lie lian biao
+似然比检验	shi ran bi jian yan
+矩阵	ju zhen
+剩余平方和	sheng yu ping fang he
+平衡的	ping heng de
+衡量	heng liang
+随机取样	sui ji qu yang
+t分布	t fen bu
+多重相关	duo zhong xiang guan
+离散变量	li san bian liang
+固定模型	gu ding mo xing
+置信区间	zhi xin qu jian
+极差	ji cha
+均方和	jun fang he
+算术平均值	suan shu ping jun zhi
+数量的	shu liang de
+自变量	zi bian liang
+报表	bao biao
+最小值	zui xiao zhi
+度量的	du liang de
+Z分数	Z fen shu
+损失函数	sun shi han shu
+相关性	xiang guan xing
+拟合	ni he
+平方和	ping fang he
+接受域	jie shou yu
+二项检验	er xiang jian yan
+关系	guan xi
+正交的	zheng jiao de
+交互作用	jiao hu zuo yong
+相关	xiang guan
+描述	miao shu
+预测	yu ce
+残差	can cha
+判别函数	pan bie han shu
+零假设	ling jia she
+检验	jian yan
+构成	gou cheng
+几何均值	ji he jun zhi
+线性的	xian xing de
+指数的	zhi shu de
+多项式曲线	duo xiang shi qu xian
+散点图	san dian tu
+对数的	dui shu de
+独立性检验	du li xing jian yan
+单向分类	dan xiang fen lei
+缺失值	que shi zhi
+期望值	qi wang zhi
+D优化设计	D you hua she ji
+线性估计	xian xing gu ji
+空间	kong jian
+百分位数	bai fen wei shu
+直方图	zhi fang tu
+众数	zhong shu
+真值	zhen zhi
+线性关系	xian xing guan xi
+多元相关系数	duo yuan xiang guan xi shu
+拒绝域	ju jue yu
+偏态分布	pian tai fen bu
+二项分布	er xiang fen bu
+方差齐性	fang cha qi xing
+双侧检验	shuang ce jian yan
+组内的	zu nei de
+因子分析	yin zi fen xi
+特征值	te zheng zhi
+显著性	xian zhu xing
+立方的	li fang de
+多响应	duo xiang ying
+报告	bao gao

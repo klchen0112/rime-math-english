@@ -1,0 +1,1051 @@
+
+集合 set
+
+元素 element
+
+子集 subset
+
+空集 empty set
+
+并集 union
+
+交集 intersection
+
+差集 difference of set
+
+基本集 basic set
+
+补集 complement set
+
+直积 direct product
+
+笛卡儿积 Cartesian product
+
+开区间 open interval
+
+闭区间 closed interval
+
+半开区间 half open interval
+
+有限区间 finite interval
+
+区间的长度 length of an interval
+
+无限区间 infinite interval
+
+领域 neighborhood
+
+领域的中心 centre of a neighborhood
+
+领域的半径 radius of a neighborhood
+
+左领域 left neighborhood
+
+右领域 right neighborhood
+
+映射 mapping
+
+X到Y的映射 mapping of X ontoY
+
+满射 surjection
+
+单射 injection
+
+映射 one-to-one mapping
+
+双射 bijection
+
+算子 operator
+
+变化 transformation
+
+函数 function
+
+逆映射 inverse mapping
+
+复合映射 composite mapping
+
+自变量 independent variable
+
+因变量 dependent variable
+
+定义域 domain
+
+函数值 value of function
+
+函数关系 function relation
+
+值域 range
+
+自然定义域 natural domain
+
+单值函数 single valued function
+
+多值函数 multiple valued function
+
+单值分支 one-valued branch
+
+函数图形 graph of a function
+
+绝对值函数 absolute value
+
+符号函数 sigh function
+
+整数部分 integral part
+
+阶梯曲线 step curve
+
+当且仅当 if and only if
+当且仅当 iff
+分段函数 piecewise function
+
+上界 upper bound
+
+下界 lower bound
+
+有界 boundedness
+
+无界 unbounded
+
+函数的单调性 monotonicity of a function
+
+单调增加的 increasing
+
+单调减少的 decreasing
+
+单调函数 monotone function
+
+函数的奇偶性 parity of a function
+函数的奇偶性 odevity of a function
+
+对称 symmetry
+
+偶函数 even function
+
+奇函数 odd function
+
+函数的周期性 periodicity of a function
+
+周期 period
+
+反函数 inverse function
+
+直接函数 direct function
+
+复合函数 composite function
+
+中间变量 intermediate variable
+
+函数的运算 operation of function
+
+基本初等函数 basic elementary function
+
+初等函数 elementary function
+
+幂函数 power function
+
+指数函数 exponential function
+
+对数函数 logarithmic function
+
+三角函数 trigonometric function
+
+反三角函数 inverse trigonometric function
+
+常数函数 constant function
+
+双曲函数 hyperbolic function
+
+双曲正弦 hyperbolic sine
+
+双曲余弦 hyperbolic cosine
+
+双曲正切 hyperbolic tangent
+
+反双曲正弦 inverse hyperbolic sine
+
+反双曲余弦 inverse hyperbolic cosine
+
+反双曲正切 inverse hyperbolic tangent
+
+极限 limit
+
+数列 sequence of number
+
+收敛 convergence
+
+收敛于 a converge to a
+
+发散 divergent
+
+极限的唯一性 uniqueness of limits
+
+收敛数列的有界性 boundedness of a convergent sequence
+
+子列 subsequence
+
+函数的极限 limits of functions
+
+左极限 left limit
+
+右极限 right limit
+
+单侧极限 one-sided limits
+
+水平渐近线 horizontal asymptote
+
+无穷小 infinitesimal
+
+无穷大 infinity
+
+铅直渐近线 vertical asymptote
+
+夹逼准则 squeeze rule
+
+单调数列 monotonic sequence
+
+高阶无穷小 infinitesimal of higher order
+
+低阶无穷小 infinitesimal of lower order
+
+同阶无穷小 infinitesimal of the same order
+
+等阶无穷小 equivalent infinitesimal
+
+函数的连续性 continuity of a function
+
+增量 increment
+
+左连续 left continuous
+
+右连续 right continuous
+
+区间上的连续函数 continuous function
+
+不连续点 discontinuity point
+
+第一类间断点 discontinuity point of the first kind
+
+第二类间断点 discontinuity point of the second kind
+
+初等函数的连续性 continuity of the elementary functions
+
+定义区间 defined interval
+
+最大值 global maximum value
+最大值 absolute maximum
+
+最小值 global minimum value
+最小值 absolute minimum
+零点定理 the zero point theorem
+
+介值定理 intermediate value theorem
+
+速度 velocity
+
+匀速运动 uniform motion
+
+平均速度 average velocity
+
+瞬时速度 instantaneous velocity
+
+圆的切线 tangent line of a circle
+
+切线 tangent line
+
+切线的斜率 slope of the tangent line
+
+位置函数 position function
+
+导数 derivative
+
+可导 derivable
+
+函数的变化率问题 problem of the change rate of a function
+
+导函数 derived function
+
+左导数 left-hand derivative
+
+右导数 right-hand derivative
+
+单侧导数 one-sided derivatives
+可导 derivable
+闭区间 closed interval
+
+切线方程 tangent equation
+
+角速度 angular velocity
+
+成本函数 cost function
+
+边际成本 marginal cost
+
+链式法则 chain rule
+
+隐函数 implicit function
+
+显函数 explicit function
+
+二阶函数 second derivative
+
+三阶导数 third derivative
+
+高阶导数 nth derivative
+
+莱布尼茨公式 Leibniz formula
+
+对数求导法 log- derivative
+
+参数方程 parametric equation
+
+相关变化率 correlative change rata
+
+微分 differential
+
+可微的 differentiable
+
+函数的微分 differential of function
+
+自变量的微分 differential of independent variable
+
+微商 differential quotient
+
+间接测量误差 indirect measurement error
+
+绝对误差 absolute error
+
+相对误差 relative error
+
+罗马定理 Rolle’s theorem
+
+费马引理 Fermat’s lemma
+
+拉格朗日中值定理 Lagrange’s mean value theorem
+
+驻点 stationary point
+
+稳定点 stable point
+
+临界点 critical point
+
+辅助函数 auxiliary function
+
+拉格朗日中值公式 Lagrange’s mean value formula
+
+柯西中值定理 Cauchy’s mean value theorem
+
+洛必达法则 L’Hospital’s Rule
+
+不定式 indeterminate form
+
+泰勒中值定理 Taylor’s mean value theorem
+
+泰勒公式 Taylor formula
+
+余项 remainder term
+
+拉格朗日余项 Lagrange remainder term
+
+麦克劳林公式 Maclaurin’s formula
+
+佩亚诺公式 Peano remainder term
+
+凹凸性 concavity
+
+凹向上的 concave upward
+凹向上的 cancave up
+
+凹向下的 concave downward
+向上凸的 concave down
+
+拐点 inflection point
+
+函数的极值 extremum of function
+
+极大值 local maximum
+极大值 relative maximum
+最大值 global maximum
+最大值 absolute maximum
+
+极小值 relative minimum
+极小值 relative minimum
+最小值 global minimum
+最小值 absolute minimum
+目标函数 objective function
+
+曲率 curvature
+
+弧微分 arc differential
+
+平均曲率 average curvature
+
+曲率园 circle of curvature
+
+曲率中心 center of curvature
+
+曲率半径 radius of curvature
+
+渐屈线 evolute
+
+渐伸线 involute
+
+根的隔离 isolation of root
+
+隔离区间 isolation interval
+
+切线法 tangent line method
+
+原函数 primitive function
+不定积分 antiderivative
+
+积分号 sign of integration
+
+被积函数 integrand
+
+积分变量 integral variable
+
+积分曲线 integral curve
+
+积分表 table of integrals
+
+换元积分法 integration by substitution
+
+分部积分法 integration by parts
+
+分部积分公式 formula of integration by parts
+
+有理函数 rational function
+
+真分式 proper fraction
+
+假分式 improper fraction
+
+曲边梯形 trapezoid with
+
+曲边 curve edge
+
+窄矩形 narrow rectangle
+
+曲边梯形的面积 area of trapezoid with curved edge
+
+积分下限 lower limit of integral
+
+积分上限 upper limit of integral
+
+积分区间 integral interval
+
+分割 partition
+
+积分和 integral sum
+
+可积 integrable
+
+矩形法 rectangle method
+
+积分中值定理 mean value theorem of integrals
+
+函数在区间上的平均值 average value of a function on an integvals
+
+牛顿－莱布尼茨公式 Newton-Leibniz formula
+
+微积分基本公式 fundamental formula of calculus
+
+换元公式 formula for integration by substitution
+
+递推公式 recurrence formula
+
+反常积分 improper integral
+
+反常积分发散 the improper integral is divergent
+
+反常积分收敛 the improper integral is convergent
+
+无穷限的反常积分 improper integral on an infinite interval
+
+无界函数的反常积分 improper integral of unbounded functions
+
+绝对收敛 absolutely convergent
+
+元素法 the element method
+
+面积元素 element of area
+
+平面图形的面积 area of a luane figure
+
+直角坐标又称“笛卡儿坐标 (Cartesian coordinates)”
+
+极坐标 polar coordinates
+
+抛物线 parabola
+
+椭圆 ellipse
+
+旋转体的面积 volume of a solid of rotation
+
+旋转椭球体 ellipsoid of revolution
+旋转椭球体 ellipsoid of rotation
+
+曲线的弧长 arc length of acurve
+
+可求长的 rectifiable
+
+光滑 smooth
+
+功 work
+
+水压力 water pressure
+
+引力 gravitation
+
+变力 variable force
+
+向量 vector
+
+自由向量 free vector
+
+单位向量 unit vector
+
+零向量 zero vector
+
+相等 equal
+
+平行 parallel
+
+向量的线性运算 linear poeration of vector
+
+三角法则 triangle rule
+
+平行四边形法则 parallelogram rule
+
+交换律 commutative law
+
+结合律 associative law
+
+负向量 negative vector
+
+差 difference
+
+分配律 distributive law
+
+空间直角坐标系 space rectangular coordinates
+
+坐标面 coordinate plane
+
+卦限 octant
+
+向量的模 modulus of vector
+
+向量a与b的夹角 angle between vector a and b
+
+方向余弦 direction cosine
+
+方向角 direction angle
+
+向量在轴上的投影 projection of a vector onto an axis
+
+数量积 inner product
+外积 dot product
+叉积 scalar product
+
+曲面方程 equation for a surface
+
+球面 sphere
+
+旋转曲面 surface of revolution
+
+母线 generating line
+
+轴 axis
+
+圆锥面 cone
+
+顶点 vertex
+
+旋转单叶双曲面 revolution hyperboloids of one sheet
+
+旋转双叶双曲面 revolution hyperboloids of two sheets
+
+柱面 cylindrical surface
+柱面 cylinder
+
+圆柱面 cylindrical surface
+
+准线 directrix
+
+抛物柱面 parabolic cylinder
+
+二次曲面 quadric surface
+
+椭圆锥面 dlliptic cone
+
+椭球面 ellipsoid
+
+单叶双曲面 hyperboloid of one sheet
+
+双叶双曲面 hyperboloid of two sheets
+
+旋转椭球面 ellipsoid of revolution
+
+椭圆抛物面 elliptic paraboloid
+
+旋转抛物面 paraboloid of revolution
+
+双曲抛物面 hyperbolic paraboloid
+
+马鞍面 saddle surface
+
+椭圆柱面 elliptic cylinder
+
+双曲柱面 hyperbolic cylinder
+
+抛物柱面 parabolic cylinder
+
+空间曲线 space curve
+
+空间曲线的一般方程 general form equations of a space curve
+
+空间曲线的参数方程 parametric equations of a space curve
+
+螺转线 spiral
+
+螺矩 pitch
+
+投影柱面 projecting cylinder
+
+投影 projection
+
+平面的点法式方程 pointnorm form eqyation of a plane
+
+法向量 normal vector
+
+平面的一般方程 general form equation of a plane
+
+两平面的夹角 angle between two planes
+
+点到平面的距离 distance from a point to a plane
+
+空间直线的一般方程 general equation of a line in space
+
+方向向量 direction vector
+
+直线的点向式方程 pointdirection form equations of a line
+
+方向数 direction number
+
+直线的参数方程 parametric equations of a line
+
+两直线的夹角 angle between two lines
+
+垂直 perpendicular
+
+直线与平面的夹角 angle between a line and a planes
+
+平面束 pencil of planes
+
+平面束的方程 equation of a pencil of planes
+
+行列式 determinant
+
+系数行列式 coefficient determinant
+
+一元函数 function of one variable
+
+多元函数 function of several variables
+
+内点 interior point
+
+外点 exterior point
+
+边界点 frontier point
+边界点 boundary point
+
+聚点 point of accumulation
+
+开集 openset
+
+闭集 closed set
+
+连通集 connected set
+
+开区域 open region
+
+闭区域 closed region
+
+有界集 bounded set
+
+无界集 unbounded set
+
+n维空间 n-dimentional space
+
+二重极限 double limit
+
+多元函数的连续性 continuity of function of seveal
+
+连续函数 continuous function
+
+不连续点 discontinuity point
+
+一致连续 uniformly continuous
+
+偏导数 partial derivative
+
+对自变量x的偏导数 partial derivative with respect to independent variable x
+
+高阶偏导数 partial derivative of higher order
+
+二阶偏导数 second order partial derivative
+
+混合偏导数 hybrid partial derivative
+
+全微分 total differential
+
+偏增量 oartial increment
+
+偏微分 partial differential
+
+全增量 total increment
+
+可微分 differentiable
+
+必要条件 necessary condition
+
+充分条件 sufficient condition
+
+叠加原理 superpostition principle
+
+全导数 total derivative
+
+中间变量 intermediate variable
+
+隐函数存在定理 theorem of the existence of implicit function
+
+曲线的切向量 tangent vector of a curve
+
+法平面 normal plane
+
+向量方程 vector equation
+
+向量值函数 vector-valued function
+
+切平面 tangent plane
+
+法线 normal line
+
+方向导数 directional derivative
+
+梯度 gradient
+
+数量场 scalar field
+
+梯度场 gradient field
+
+向量场 vector field
+
+势场 potential field
+
+引力场 gravitational field
+
+引力势 gravitational potential
+
+曲面在一点的切平面 tangent plane to a surface at a point
+
+曲线在一点的法线 normal line to a surface at a point
+
+无条件极值 unconditional extreme values
+
+条件极值 conditional extreme values
+
+拉格朗日乘数法 Lagrange multiplier method
+
+拉格朗日乘子 Lagrange multiplier
+
+经验公式 empirical formula
+
+最小二乘法 method of least squares
+
+均方误差 mean square error
+
+二重积分 double integral
+
+可加性 additivity
+
+累次积分 iterated integral
+
+体积元素 volume element
+
+三重积分 triple integral
+
+直角坐标系中的体积元素 volume element in rectangular coordinate system
+
+柱面坐标 cylindrical coordinates
+
+柱面坐标系中的体积元素 volume element in cylindrical coordinate system
+
+球面坐标 spherical coordinates
+
+球面坐标系中的体积元素 volume element in spherical coordinate system
+
+反常二重积分 improper double integral
+
+曲面的面积 area of a surface
+
+质心 centre of mass
+
+静矩 static moment
+
+密度 density
+
+形心 centroid
+
+转动惯量 moment of inertia
+
+参变量 parametric variable
+
+对弧长的曲线积分 line integrals with respect to arc hength
+
+第一类曲线积分 line integrals of the first type
+
+第二类曲线积分 line integrals of the second type
+
+有向曲线弧 directed arc
+
+单连通区域 simple connected region
+
+复连通区域 complex connected region
+
+格林公式 Green formula
+
+第一类曲面积分 surface integrals of the first type
+
+对面的曲面积分 surface integrals with respect to area
+
+有向曲面 directed surface
+
+对坐标的曲面积分 surface integrals with respect to coordinate elements
+
+第二类曲面积分 surface integrals of the second type
+
+有向曲面元 element of directed surface
+
+高斯公式 gauss formula
+
+拉普拉斯算子 Laplace operator
+
+格林第一公式 Green’s first formula
+
+通量 flux
+
+散度 divergence
+
+斯托克斯公式 Stokes formula
+
+环流量 circulation
+
+旋度 rotation
+旋度 curl
+
+一般项 general term
+
+部分和 partial sum
+
+余项 remainder term
+
+等比级数 geometric series
+
+几何级数 geometric series
+
+公比 common ratio
+
+调和级数 harmonic series
+
+柯西收敛准则 Cauchy convergence criteria
+柯西收敛准则 Cauchy criteria for convergence
+
+正项级数 series of positive terms
+
+达朗贝尔判别法 D’Alembert test
+
+柯西判别法 Cauchy test
+
+交错级数 alternating series
+
+绝对收敛 absolutely convergent
+
+条件收敛 conditionally convergent
+
+柯西乘积 Cauchy product
+
+函数项级数 series of functions
+
+发散点 point of divergence
+
+收敛点 point of convergence
+
+收敛域 convergence domain
+
+和函数 sum function
+
+幂级数 power series
+
+幂级数的系数 coeffcients of power series
+
+阿贝尔定理 Abel Theorem
+
+收敛半径 radius of convergence
+
+收敛区间 interval of convergence
+
+泰勒级数 Taylor series
+
+麦克劳林级数 Maclaurin series
+
+二项展开式 binomial expansion
+
+近似计算 approximate calculation
+
+舍入误差 round-off error
+舍入误差 rounding error
+
+欧拉公式 Euler’s formula
+
+魏尔斯特拉丝判别法 Weierstrass test
+
+三角级数 trigonometric series
+
+振幅 amplitude
+
+角频率 angular frequency
+
+初相 initial phase
+
+矩形波 square wave
+
+谐波分析 harmonic analysis
+
+直流分量 direct component
+
+基波 fundamental wave
+
+二次谐波 second harmonic
+
+三角函数系 trigonometric function system
+
+傅立叶系数 Fourier coefficient
+
+傅立叶级数 Forrier series
+
+周期延拓 periodic prolongation
+
+正弦级数 sine series
+
+余弦级数 cosine series
+
+奇延拓 odd prolongation
+
+偶延拓 even prolongation
+
+傅立叶级数的复数形式 complex form of Fourier series
+
+解微分方程 solve a dirrerential equation
+
+常微分方程 ordinary differential equation
+
+偏微分方程 partial differential equation
+偏微分方程 PDE
+
+微分方程的阶 order of a differential equation
+
+微分方程的解 solution of a differential equation
+
+微分方程的通解 general solution of a differential equation
+
+初始条件 initial condition
+
+微分方程的特解 particular solution of a differential equation
+
+初值问题 initial value problem
+
+微分方程的积分曲线 integral curve of a differential equation
+
+可分离变量的微分方程 variable separable differential equation
+
+隐式解 implicit solution
+
+隐式通解 inplicit general solution
+
+衰变系数 decay coefficient
+
+衰变 decay
+
+齐次方程 homogeneous equation
+
+一阶线性方程 linear differential equation of first order
+
+非齐次 non-homogeneous
+
+齐次线性方程 homogeneous linear equation
+
+非齐次线性方程 non-homogeneous linear equation
+
+常数变易法 method of variation of constant
+
+暂态电流 transient stata current
+
+稳态电流 steady state current
+
+伯努利方程 Bernoulli equation
+
+全微分方程 total differential equation
+
+积分因子 integrating factor
+
+高阶微分方程 differential equation of higher order
+
+悬链线 catenary
+
+高阶线性微分方程 linera differential equation of higher order
+
+自由振动的微分方程 differential equation of free vibration
+
+强迫振动的微分方程 differential equation of forced oscillation
+
+串联电路的振荡方程 oscillation equation of series circuit
+
+二阶线性微分方程 second order linera differential equation
+
+线性相关 linearly dependence
+
+线性无关 linearly independce
+
+二阶常系数齐次线性微分方程 second order homogeneour linear differential equation with constant coefficient
+
+二阶变系数齐次线性微分方程 second order homogeneous linear differential equation with variable coefficient
+
+特征方程 characteristic equation
+
+无阻尼自由振动的微分方程 differential equation of free vibration with zero damping
+
+固有频率 natural frequency
+
+简谐振动 simple harmonic oscillation
+简谐振动 simple harmonic vibration
+
+微分算子 differential operator
+
+待定系数法 method of undetermined coefficient
+
+共振现象 resonance phenomenon
+
+欧拉方程 Euler equation
+
+幂级数解法 power series solution
+
+数值解法 numerial solution
+
+勒让德方程 Legendre equation
+
+微分方程组 system of differential equations
+
+常系数线性微分方程组 system of linera differential equations with constant coefficient
+

@@ -1,0 +1,188 @@
+adjont of matrix 伴随矩阵
+adjugate of matrix 伴随矩阵
+augmented matrix 增广矩阵
+
+block diagonal matrix 块对角矩阵
+
+block matrix 块矩阵
+
+basic solution set 基础解系
+
+Cauchy-Schwarz inequality 柯西-许瓦兹不等式
+
+characteristic equation 特征方程
+
+characteristic polynomial 特征多项式
+
+coffcient matrix 系数矩阵
+
+cofactor 代数余子式
+
+cofactor expansion 代数余子式展开
+
+column vector 列向量
+
+commuting matrices 交换矩阵
+
+consistent linear system 相容线性方程组
+
+Cramer’s rule 克莱姆法则
+
+Cross- product term 交叉项
+
+Determinant 行列式
+
+Diagonal entries 对角元素
+
+Diagonal matrix 对角矩阵
+
+Dimension of a vector space 向量空间的维数
+
+echelon matrix 梯形矩阵
+
+eigenspace 特征空间
+
+eigenvalue 特征值
+
+eigenvector 特征向量
+
+eigenvector basis 特征向量的基
+
+elementary matrix 初等矩阵
+
+elementary row operations 行初等变换
+
+full rank 满秩
+
+fundermental set of solution 基础解系
+
+
+grneral solution 通解
+
+Gram-Schmidt process 施密特正交化过程
+
+homogeneous linear equations 齐次线性方程组
+
+identity matrix 单位矩阵
+
+inconsistent linear system 不相容线性方程组
+
+indefinite matrix 不定矩阵
+
+indefinit quatratic form 不定二次型
+
+infinite-dimensional space 无限维空间
+
+inner product 内积
+
+inverse of matrix 逆矩阵
+
+linear combination 线性组合
+
+linearly dependent 线性相关
+
+linearly independent 线性无关
+
+linear transformation 线性变换
+
+lower triangular matrix 下三角形矩阵
+
+main diagonal of matrix 矩阵的主对角
+
+matrix 矩阵
+
+
+negative definite quaratic form 负定二次型
+
+negative semidefinite quadratic form 半负定二次型
+
+nonhomogeneous equations 非齐次线性方程组
+
+nonsigular matrix 非奇异矩阵
+
+nontrivial solution 非平凡解
+
+norm of vector 向量的范数
+
+normalizing vector 规范化向量
+
+orthogonal basis 正交基
+
+orthogonal complement 正交补
+
+orthogonal decomposition 正交分解
+
+orthogonally diagonalizable matrix 矩阵的正交对角化
+
+orthogonal matrix 正交矩阵
+
+orthogonal set 正交向量组
+
+orthonormal basis 规范正交基
+
+orthonomal set 规范正交向量组
+
+partitioned matrix 分块矩阵
+
+positive definite matrix 正定矩阵
+
+positive definite quatratic form 正定二次型
+
+positive semidefinite matrix 半正定矩阵
+
+positive semidefinite quadratic form 半正定二次型
+
+quatratic form 二次型
+
+rank of matrix 矩阵的秩
+
+reduced echelon matrix 最简梯形阵
+
+row vector 行向量
+
+
+set spanned by 由向量所生成
+
+similar matrices 相似矩阵
+
+similarity transformation 相似变换
+
+singular matrix 奇异矩阵
+
+solution set 解集合
+
+standard basis 标准基
+
+standard matrix 标准矩阵I
+
+submatrix 子矩阵
+
+subspace 子空间
+
+symmetric matrix 对称矩阵
+
+
+trace of matrix 矩阵的迹
+
+transpose of 矩阵的转置
+
+triangle inequlity 三角不等式
+
+trivial solution 平凡解
+
+
+unit vector 单位向量
+
+upper triangular matrix 上三角形矩阵
+
+
+vandermonde matrix 范得蒙矩阵
+
+vector 向量
+
+vector space 向量空间
+
+
+zero subspace 零子空间
+
+zero vector 零空间

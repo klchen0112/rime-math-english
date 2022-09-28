@@ -1,0 +1,531 @@
+---
+name: calculus_en_phrase
+version: "2021.10.13"
+sort: by_weight
+use_preset_vocabulary: false
+...
+
+odevity of a function	odevityofafunction
+normal line to a surface at a point	normallinetoasurfaceatapoint
+union	union
+directional derivative	directionalderivative
+radius of convergence	radiusofconvergence
+volume element in cylindrical coordinate system	volumeelementincylindricalcoordinatesystem
+power function	powerfunction
+hyperbolic sine	hyperbolicsine
+second order homogeneous linear differential equation with variable coefficient	secondorderhomogeneouslineardifferentialequationwithvariablecoefficient
+marginal cost	marginalcost
+problem of the change rate of a function	problemofthechangerateofafunction
+decreasing	decreasing
+numerial solution	numerialsolution
+improper integral on an infinite interval	improperintegralonaninfiniteinterval
+narrow rectangle	narrowrectangle
+vector field	vectorfield
+open interval	openinterval
+divergent	divergent
+mapping	mapping
+commutative law	commutativelaw
+direction number	directionnumber
+element of area	elementofarea
+increasing	increasing
+parabolic cylinder	paraboliccylinder
+ellipsoid	ellipsoid
+infinitesimal of higher order	infinitesimalofhigherorder
+position function	positionfunction
+tangent line method	tangentlinemethod
+difference	difference
+sequence of number	sequenceofnumber
+absolutely convergent	absolutelyconvergent
+Lagrange’s mean value formula	Lagrangesmeanvalueformula
+series of positive terms	seriesofpositiveterms
+differential operator	differentialoperator
+exponential function	exponentialfunction
+monotonic sequence	monotonicsequence
+order of a differential equation	orderofadifferentialequation
+right continuous	rightcontinuous
+auxiliary function	auxiliaryfunction
+defined interval	definedinterval
+Lagrange remainder term	Lagrangeremainderterm
+right-hand derivative	righthandderivative
+surface integrals of the first type	surfaceintegralsofthefirsttype
+resonance phenomenon	resonancephenomenon
+left-hand derivative	lefthandderivative
+concave downward	concavedownward
+flux	flux
+moment of inertia	momentofinertia
+multiple valued function	multiplevaluedfunction
+single valued function	singlevaluedfunction
+exterior point	exteriorpoint
+integrable	integrable
+absolute maximum	absolutemaximum
+gravitation	gravitation
+absolute minimum	absoluteminimum
+general form equation of a plane	generalformequationofaplane
+the improper integral is convergent	theimproperintegralisconvergent
+ellipsoid of revolution	ellipsoidofrevolution
+partial derivative	partialderivative
+polar coordinates	polarcoordinates
+left neighborhood	leftneighborhood
+the improper integral is divergent	theimproperintegralisdivergent
+formula for integration by substitution	formulaforintegrationbysubstitution
+gradient field	gradientfield
+natural frequency	naturalfrequency
+Laplace operator	Laplaceoperator
+differential equation of forced oscillation	differentialequationofforcedoscillation
+scalar product	scalarproduct
+odd prolongation	oddprolongation
+necessary condition	necessarycondition
+area of trapezoid with curved edge	areaoftrapezoidwithcurvededge
+improper integral of unbounded functions	improperintegralofunboundedfunctions
+continuous function	continuousfunction
+interior point	interiorpoint
+the zero point theorem	thezeropointtheorem
+vector	vector
+second harmonic	secondharmonic
+uniformly continuous	uniformlycontinuous
+instantaneous velocity	instantaneousvelocity
+gradient	gradient
+vector-valued function	vectorvaluedfunction
+one-sided limits	onesidedlimits
+global minimum value	globalminimumvalue
+trigonometric function system	trigonometricfunctionsystem
+surjection	surjection
+free vector	freevector
+sigh function	sighfunction
+Fourier coefficient	Fouriercoefficient
+point of convergence	pointofconvergence
+derivable	derivable
+projecting cylinder	projectingcylinder
+global maximum value	globalmaximumvalue
+cylindrical coordinates	cylindricalcoordinates
+double limit	doublelimit
+a converge to a	aconvergetoa
+relative maximum	relativemaximum
+right neighborhood	rightneighborhood
+cost function	costfunction
+homogeneous equation	homogeneousequation
+even prolongation	evenprolongation
+gravitational field	gravitationalfield
+geometric series	geometricseries
+subsequence	subsequence
+parity of a function	parityofafunction
+function of one variable	functionofonevariable
+common ratio	commonratio
+function	function
+recurrence formula	recurrenceformula
+divergence	divergence
+arc length of acurve	arclengthofacurve
+direction angle	directionangle
+composite function	compositefunction
+parametric equations of a space curve	parametricequationsofaspacecurve
+Green’s first formula	Greensfirstformula
+hyperboloid of one sheet	hyperboloidofonesheet
+relative minimum	relativeminimum
+rectangle method	rectanglemethod
+Newton-Leibniz formula	NewtonLeibnizformula
+distributive law	distributivelaw
+tangent line	tangentline
+elementary function	elementaryfunction
+cone	cone
+differential	differential
+circulation	circulation
+coeffcients of power series	coeffcientsofpowerseries
+limits of functions	limitsoffunctions
+cancave up	cancaveup
+periodicity of a function	periodicityofafunction
+involute	involute
+harmonic series	harmonicseries
+left limit	leftlimit
+perpendicular	perpendicular
+subset	subset
+lower limit of integral	lowerlimitofintegral
+equal	equal
+difference of set	differenceofset
+water pressure	waterpressure
+superpostition principle	superpostitionprinciple
+variable force	variableforce
+parallel	parallel
+partial derivative of higher order	partialderivativeofhigherorder
+mean value theorem of integrals	meanvaluetheoremofintegrals
+characteristic equation	characteristicequation
+Green formula	Greenformula
+direction cosine	directioncosine
+formula of integration by parts	formulaofintegrationbyparts
+D’Alembert test	DAlemberttest
+hyperbolic cylinder	hyperboliccylinder
+symmetry	symmetry
+inverse hyperbolic cosine	inversehyperboliccosine
+line integrals of the first type	lineintegralsofthefirsttype
+differential of function	differentialoffunction
+concavity	concavity
+cylindrical surface	cylindricalsurface
+chain rule	chainrule
+natural domain	naturaldomain
+one-valued branch	onevaluedbranch
+derivative	derivative
+differential quotient	differentialquotient
+integration by substitution	integrationbysubstitution
+infinite interval	infiniteinterval
+system of linera differential equations with constant coefficient	systemoflineradifferentialequationswithconstantcoefficient
+line integrals with respect to arc hength	lineintegralswithrespecttoarchength
+linera differential equation of higher order	lineradifferentialequationofhigherorder
+general solution of a differential equation	generalsolutionofadifferentialequation
+objective function	objectivefunction
+step curve	stepcurve
+simple harmonic vibration	simpleharmonicvibration
+explicit function	explicitfunction
+directed arc	directedarc
+square wave	squarewave
+distance from a point to a plane	distancefromapointtoaplane
+even function	evenfunction
+power series solution	powerseriessolution
+isolation interval	isolationinterval
+differential equation of free vibration	differentialequationoffreevibration
+total derivative	totalderivative
+tangent vector of a curve	tangentvectorofacurve
+mean square error	meansquareerror
+direct product	directproduct
+table of integrals	tableofintegrals
+steady state current	steadystatecurrent
+tangent plane to a surface at a point	tangentplanetoasurfaceatapoint
+continuity of the elementary functions	continuityoftheelementaryfunctions
+parametric equations of a line	parametricequationsofaline
+inverse mapping	inversemapping
+revolution hyperboloids of two sheets	revolutionhyperboloidsoftwosheets
+primitive function	primitivefunction
+surface of revolution	surfaceofrevolution
+right limit	rightlimit
+stable point	stablepoint
+hyperbolic cosine	hyperboliccosine
+piecewise function	piecewisefunction
+associative law	associativelaw
+sphere	sphere
+vector equation	vectorequation
+parallelogram rule	parallelogramrule
+derived function	derivedfunction
+pitch	pitch
+Forrier series	Forrierseries
+operation of function	operationoffunction
+parabola	parabola
+continuity of function of seveal	continuityoffunctionofseveal
+discontinuity point	discontinuitypoint
+determinant	determinant
+monotone function	monotonefunction
+variable separable differential equation	variableseparabledifferentialequation
+periodic prolongation	periodicprolongation
+work	work
+zero vector	zerovector
+upper limit of integral	upperlimitofintegral
+partial differential equation	partialdifferentialequation
+lower bound	lowerbound
+if and only if	ifandonlyif
+amplitude	amplitude
+binomial expansion	binomialexpansion
+odd function	oddfunction
+cosine series	cosineseries
+average velocity	averagevelocity
+quadric surface	quadricsurface
+dependent variable	dependentvariable
+implicit solution	implicitsolution
+pencil of planes	pencilofplanes
+indirect measurement error	indirectmeasurementerror
+mapping of X ontoY	mappingofXontoY
+correlative change rata	correlativechangerata
+inflection point	inflectionpoint
+tangent plane	tangentplane
+limit	limit
+density	density
+injection	injection
+curvature	curvature
+hyperboloid of two sheets	hyperboloidoftwosheets
+discontinuity point of the second kind	discontinuitypointofthesecondkind
+spherical coordinates	sphericalcoordinates
+integration by parts	integrationbyparts
+rotation	rotation
+revolution hyperboloids of one sheet	revolutionhyperboloidsofonesheet
+Cauchy criteria for convergence	Cauchycriteriaforconvergence
+total differential equation	totaldifferentialequation
+integral part	integralpart
+linearly independce	linearlyindependce
+openset	openset
+neighborhood	neighborhood
+operator	operator
+Leibniz formula	Leibnizformula
+convergence domain	convergencedomain
+sum function	sumfunction
+concave upward	concaveupward
+conditionally convergent	conditionallyconvergent
+Lagrange multiplier	Lagrangemultiplier
+integral sum	integralsum
+improper fraction	improperfraction
+Cauchy test	Cauchytest
+spiral	spiral
+rounding error	roundingerror
+unconditional extreme values	unconditionalextremevalues
+Lagrange multiplier method	Lagrangemultipliermethod
+point of divergence	pointofdivergence
+half open interval	halfopeninterval
+centre of mass	centreofmass
+transformation	transformation
+octant	octant
+sign of integration	signofintegration
+circle of curvature	circleofcurvature
+integrating factor	integratingfactor
+system of differential equations	systemofdifferentialequations
+normal line	normalline
+element of directed surface	elementofdirectedsurface
+iff	iff
+hyperbolic paraboloid	hyperbolicparaboloid
+function of several variables	functionofseveralvariables
+squeeze rule	squeezerule
+gravitational potential	gravitationalpotential
+ellipsoid of rotation	ellipsoidofrotation
+Rolle’s theorem	Rollestheorem
+smooth	smooth
+relative error	relativeerror
+radius of a neighborhood	radiusofaneighborhood
+log- derivative	logderivative
+potential field	potentialfield
+total increment	totalincrement
+catenary	catenary
+independent variable	independentvariable
+initial phase	initialphase
+isolation of root	isolationofroot
+Taylor’s mean value theorem	Taylorsmeanvaluetheorem
+solve a dirrerential equation	solveadirrerentialequation
+average curvature	averagecurvature
+complement set	complementset
+slope of the tangent line	slopeofthetangentline
+integral variable	integralvariable
+Stokes formula	Stokesformula
+empty set	emptyset
+Abel Theorem	AbelTheorem
+n-dimentional space	ndimentionalspace
+Weierstrass test	Weierstrasstest
+homogeneous linear equation	homogeneouslinearequation
+inplicit general solution	inplicitgeneralsolution
+saddle surface	saddlesurface
+partial sum	partialsum
+generating line	generatingline
+volume of a solid of rotation	volumeofasolidofrotation
+surface integrals with respect to coordinate elements	surfaceintegralswithrespecttocoordinateelements
+improper double integral	improperdoubleintegral
+rational function	rationalfunction
+extremum of function	extremumoffunction
+simple connected region	simpleconnectedregion
+infinity	infinity
+range	range
+closed interval	closedinterval
+continuity of a function	continuityofafunction
+decay	decay
+double integral	doubleintegral
+coordinate plane	coordinateplane
+Cartesian product	Cartesianproduct
+intermediate value theorem	intermediatevaluetheorem
+Bernoulli equation	Bernoulliequation
+intersection	intersection
+series of functions	seriesoffunctions
+concave down	concavedown
+constant function	constantfunction
+upper bound	upperbound
+Cauchy’s mean value theorem	Cauchysmeanvaluetheorem
+general equation of a line in space	generalequationofalineinspace
+non-homogeneous linear equation	nonhomogeneouslinearequation
+axis	axis
+method of variation of constant	methodofvariationofconstant
+integrand	integrand
+projection of a vector onto an axis	projectionofavectorontoanaxis
+inverse trigonometric function	inversetrigonometricfunction
+sine series	sineseries
+round-off error	roundofferror
+finite interval	finiteinterval
+domain	domain
+gauss formula	gaussformula
+method of least squares	methodofleastsquares
+hybrid partial derivative	hybridpartialderivative
+global maximum	globalmaximum
+integral curve of a differential equation	integralcurveofadifferentialequation
+Cauchy product	Cauchyproduct
+second order linera differential equation	secondorderlineradifferentialequation
+intermediate variable	intermediatevariable
+centroid	centroid
+direct component	directcomponent
+pointnorm form eqyation of a plane	pointnormformeqyationofaplane
+global minimum	globalminimum
+surface integrals with respect to area	surfaceintegralswithrespecttoarea
+inverse hyperbolic sine	inversehyperbolicsine
+differential of independent variable	differentialofindependentvariable
+L’Hospital’s Rule	LHospitalsRule
+elliptic cylinder	ellipticcylinder
+differential equation of free vibration with zero damping	differentialequationoffreevibrationwithzerodamping
+absolute value	absolutevalue
+increment	increment
+elliptic paraboloid	ellipticparaboloid
+Legendre equation	Legendreequation
+hyperbolic function	hyperbolicfunction
+decay coefficient	decaycoefficient
+Maclaurin series	Maclaurinseries
+graph of a function	graphofafunction
+angle between vector a and b	anglebetweenvectoraandb
+set	set
+complex form of Fourier series	complexformofFourierseries
+local maximum	localmaximum
+paraboloid of revolution	paraboloidofrevolution
+surface integrals of the second type	surfaceintegralsofthesecondtype
+closed set	closedset
+fundamental formula of calculus	fundamentalformulaofcalculus
+curve edge	curveedge
+uniqueness of limits	uniquenessoflimits
+absolute error	absoluteerror
+inner product	innerproduct
+linearly dependence	linearlydependence
+Fermat’s lemma	Fermatslemma
+equivalent infinitesimal	equivalentinfinitesimal
+period	period
+ordinary differential equation	ordinarydifferentialequation
+left continuous	leftcontinuous
+modulus of vector	modulusofvector
+normal vector	normalvector
+complex connected region	complexconnectedregion
+area of a luane figure	areaofaluanefigure
+uniform motion	uniformmotion
+implicit function	implicitfunction
+coefficient determinant	coefficientdeterminant
+differential equation of higher order	differentialequationofhigherorder
+boundedness	boundedness
+second derivative	secondderivative
+horizontal asymptote	horizontalasymptote
+unit vector	unitvector
+area of a surface	areaofasurface
+second order homogeneour linear differential equation with constant coefficient	secondorderhomogeneourlineardifferentialequationwithconstantcoefficient
+initial condition	initialcondition
+alternating series	alternatingseries
+logarithmic function	logarithmicfunction
+evolute	evolute
+scalar field	scalarfield
+trigonometric function	trigonometricfunction
+partition	partition
+one-to-one mapping	onetoonemapping
+PDE	PDE
+centre of a neighborhood	centreofaneighborhood
+static moment	staticmoment
+equation for a surface	equationforasurface
+bounded set	boundedset
+solution of a differential equation	solutionofadifferentialequation
+cylinder	cylinder
+linear poeration of vector	linearpoerationofvector
+volume element in rectangular coordinate system	volumeelementinrectangularcoordinatesystem
+method of undetermined coefficient	methodofundeterminedcoefficient
+oscillation equation of series circuit	oscillationequationofseriescircuit
+projection	projection
+arc differential	arcdifferential
+infinitesimal of lower order	infinitesimaloflowerorder
+tangent equation	tangentequation
+angle between two lines	anglebetweentwolines
+fundamental wave	fundamentalwave
+Peano remainder term	Peanoremainderterm
+volume element	volumeelement
+normal plane	normalplane
+additivity	additivity
+Lagrange’s mean value theorem	Lagrangesmeanvaluetheorem
+ellipse	ellipse
+directrix	directrix
+volume element in spherical coordinate system	volumeelementinsphericalcoordinatesystem
+bijection	bijection
+parametric equation	parametricequation
+(Cartesian coordinates)”	Cartesiancoordinates
+interval of convergence	intervalofconvergence
+trapezoid with	trapezoidwith
+Euler’s formula	Eulersformula
+connected set	connectedset
+monotonicity of a function	monotonicityofafunction
+Taylor formula	Taylorformula
+Euler equation	Eulerequation
+improper integral	improperintegral
+vertical asymptote	verticalasymptote
+direct function	directfunction
+remainder term	remainderterm
+empirical formula	empiricalformula
+unbounded set	unboundedset
+line integrals of the second type	lineintegralsofthesecondtype
+discontinuity point of the first kind	discontinuitypointofthefirstkind
+direction vector	directionvector
+boundary point	boundarypoint
+trigonometric series	trigonometricseries
+non-homogeneous	nonhomogeneous
+one-sided derivatives	onesidedderivatives
+angular frequency	angularfrequency
+element	element
+second order partial derivative	secondorderpartialderivative
+composite mapping	compositemapping
+power series	powerseries
+infinitesimal of the same order	infinitesimalofthesameorder
+oartial increment	oartialincrement
+sufficient condition	sufficientcondition
+Cauchy convergence criteria	Cauchyconvergencecriteria
+curl	curl
+equation of a pencil of planes	equationofapencilofplanes
+rectifiable	rectifiable
+frontier point	frontierpoint
+closed region	closedregion
+function relation	functionrelation
+angle between two planes	anglebetweentwoplanes
+approximate calculation	approximatecalculation
+vertex	vertex
+boundedness of a convergent sequence	boundednessofaconvergentsequence
+particular solution of a differential equation	particularsolutionofadifferentialequation
+hyperbolic tangent	hyperbolictangent
+center of curvature	centerofcurvature
+partial derivative with respect to independent variable x	partialderivativewithrespecttoindependentvariablex
+triple integral	tripleintegral
+general term	generalterm
+directed surface	directedsurface
+angular velocity	angularvelocity
+third derivative	thirdderivative
+iterated integral	iteratedintegral
+point of accumulation	pointofaccumulation
+nth derivative	nthderivative
+theorem of the existence of implicit function	theoremoftheexistenceofimplicitfunction
+critical point	criticalpoint
+space curve	spacecurve
+conditional extreme values	conditionalextremevalues
+convergence	convergence
+integral interval	integralinterval
+Maclaurin’s formula	Maclaurinsformula
+differentiable	differentiable
+unbounded	unbounded
+tangent line of a circle	tangentlineofacircle
+transient stata current	transientstatacurrent
+average value of a function on an integvals	averagevalueofafunctiononanintegvals
+triangle rule	trianglerule
+stationary point	stationarypoint
+length of an interval	lengthofaninterval
+antiderivative	antiderivative
+dot product	dotproduct
+value of function	valueoffunction
+proper fraction	properfraction
+integral curve	integralcurve
+harmonic analysis	harmonicanalysis
+open region	openregion
+velocity	velocity
+simple harmonic oscillation	simpleharmonicoscillation
+negative vector	negativevector
+the element method	theelementmethod
+pointdirection form equations of a line	pointdirectionformequationsofaline
+angle between a line and a planes	anglebetweenalineandaplanes
+parametric variable	parametricvariable
+linear differential equation of first order	lineardifferentialequationoffirstorder
+Taylor series	Taylorseries
+total differential	totaldifferential
+basic elementary function	basicelementaryfunction
+inverse function	inversefunction
+dlliptic cone	dllipticcone
+space rectangular coordinates	spacerectangularcoordinates
+basic set	basicset
+partial differential	partialdifferential
+infinitesimal	infinitesimal
+inverse hyperbolic tangent	inversehyperbolictangent
+indeterminate form	indeterminateform
+initial value problem	initialvalueproblem
+general form equations of a space curve	generalformequationsofaspacecurve
+radius of curvature	radiusofcurvature

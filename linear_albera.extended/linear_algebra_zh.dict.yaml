@@ -1,0 +1,97 @@
+---
+name: linear_algebra_zh
+version: "2021.10.13"
+sort: by_weight
+use_preset_vocabulary: false
+...
+
+列向量	lie xiang liang
+半负定二次型	ban fu ding er ci xing
+分块矩阵	fen kuai ju zhen
+行列式	hang lie shi
+特征值	te zheng zhi
+非奇异矩阵	fei qi yi ju zhen
+基础解系	ji chu jie xi
+子矩阵	zi ju zhen
+线性无关	xian xing wu guan
+相容线性方程组	xiang rong xian xing fang cheng zu
+线性相关	xian xing xiang guan
+规范正交向量组	gui fan zheng jiao xiang liang zu
+零空间	ling kong jian
+代数余子式展开	dai shu yu zi shi zhan kai
+内积	nei ji
+负定二次型	fu ding er ci xing
+非齐次线性方程组	fei qi ci xian xing fang cheng zu
+特征多项式	te zheng duo xiang shi
+正交向量组	zheng jiao xiang liang zu
+对称矩阵	dui chen ju zhen
+规范化向量	gui fan hua xiang liang
+标准基	biao zhun ji
+相似矩阵	xiang si ju zhen
+线性组合	xian xing zu he
+零子空间	ling zi kong jian
+奇异矩阵	qi yi ju zhen
+通解	tong jie
+特征向量的基	te zheng xiang liang de ji
+向量的范数	xiang liang de fan shu
+柯西许瓦兹不等式	ke xi xu wa zi bu deng shi
+下三角形矩阵	xia san jiao xing ju zhen
+矩阵的迹	ju zhen de ji
+规范正交基	gui fan zheng jiao ji
+向量	xiang liang
+矩阵的转置	ju zhen de zhuan zhi
+半正定二次型	ban zheng ding er ci xing
+块对角矩阵	kuai dui jiao ju zhen
+齐次线性方程组	qi ci xian xing fang cheng zu
+二次型	er ci xing
+克莱姆法则	ke lai mu fa ze
+代数余子式	dai shu yu zi shi
+特征方程	te zheng fang cheng
+块矩阵	kuai ju zhen
+对角元素	dui jiao yuan su
+施密特正交化过程	shi mi te zheng jiao hua guo cheng
+单位向量	dan wei xiang liang
+系数矩阵	xi shu ju zhen
+线性变换	xian xing bian huan
+不定二次型	bu ding er ci xing
+相似变换	xiang si bian huan
+标准矩阵I	biao zhun ju zhen I
+子空间	zi kong jian
+正交基	zheng jiao ji
+初等矩阵	chu deng ju zhen
+正交分解	zheng jiao fen jie
+由向量所生成	you xiang liang suo sheng cheng
+矩阵的主对角	ju zhen de zhu dui jiao
+无限维空间	wu xian wei kong jian
+特征向量	te zheng xiang liang
+伴随矩阵	ban sui ju zhen
+行向量	xing xiang liang
+交叉项	jiao cha xiang
+单位矩阵	dan wei ju zhen
+交换矩阵	jiao huan ju zhen
+三角不等式	san jiao bu deng shi
+增广矩阵	zeng guang ju zhen
+解集合	jie ji he
+半正定矩阵	ban zheng ding ju zhen
+逆矩阵	ni ju zhen
+正交矩阵	zheng jiao ju zhen
+满秩	man zhi
+矩阵的秩	ju zhen de zhi
+非平凡解	fei ping fan jie
+向量空间的维数	xiang liang kong jian de wei shu
+范得蒙矩阵	fan de meng ju zhen
+梯形矩阵	ti xing ju zhen
+特征空间	te zheng kong jian
+正交补	zheng jiao bu
+矩阵	ju zhen
+正定二次型	zheng ding er ci xing
+行初等变换	xing chu deng bian huan
+向量空间	xiang liang kong jian
+矩阵的正交对角化	ju zhen de zheng jiao dui jiao hua
+平凡解	ping fan jie
+不相容线性方程组	bu xiang rong xian xing fang cheng zu
+最简梯形阵	zui jian ti xing zhen
+不定矩阵	bu ding ju zhen
+上三角形矩阵	shang san jiao xing ju zhen
+正定矩阵	zheng ding ju zhen
+对角矩阵	dui jiao ju zhen

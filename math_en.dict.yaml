@@ -1,0 +1,27 @@
+# Rime dictionary
+# encoding: utf-8
+#
+# 「Rime词库扩展计划」——为小狼毫打造一个强大好用的词库（OpenCC重制版） by @imy0823
+#
+#
+# 部署位置：
+# ~/.config/ibus/rime  (Linux)
+# ~/Library/Rime  (Mac OS)
+# %APPDATA%\Rime  (Windows)
+#
+# 於重新部署後生效
+#
+
+---
+name: math_en.extended
+version: "2021.10.13"
+sort: by_weight
+use_preset_vocabulary: false
+
+import_tables:
+  - caculus.extended/calculus.en_word
+  - caculus.extended/calculus.en_phrase
+  - linear_albera.extended/linear_algebra.en_word
+  - linear_albera.extended/linear_algebra.en_phrase
+  - probability.extended/probability.en_word
+  - probability.extended/probability.en_phrase

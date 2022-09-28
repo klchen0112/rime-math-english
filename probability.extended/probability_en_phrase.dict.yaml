@@ -1,0 +1,338 @@
+---
+name: probability_en_phrase
+version: "2021.10.13"
+sort: by_weight
+use_preset_vocabulary: false
+...
+
+	
+mean squared deviation(MSD)	meansquareddeviationMSD
+collinearity	collinearity
+frequency	frequency
+row	row
+significant digits	significantdigits
+stimulus	stimulus
+residual sum of squares	residualsumofsquares
+sum of squares	sumofsquares
+sample space	samplespace
+testing function	testingfunction
+maximum	maximum
+heterogeneity	heterogeneity
+time series	timeseries
+independent-samples	independentsamples
+factorial designs	factorialdesigns
+order	order
+strong assumption	strongassumption
+run	run
+linear model	linearmodel
+factor score	factorscore
+multiple regression analysis	multipleregressionanalysis
+factorial experiment	factorialexperiment
+coefficient of correlation	coefficientofcorrelation
+interval estimate	intervalestimate
+scatter chart	scatterchart
+geometric mean	geometricmean
+least-significant difference	leastsignificantdifference
+compare	compare
+cubic	cubic
+minimum	minimum
+point estimate	pointestimate
+harmomic mean	harmomicmean
+correlation	correlation
+polynomial regression	polynomialregression
+P-P plot	PPplot
+sampling	sampling
+stud. residual	studresidual
+sum	sum
+test of goodness of fit	testofgoodnessoffit
+randomization	randomization
+significance level	significancelevel
+two-tailed test	twotailedtest
+mixed model	mixedmodel
+robustness	robustness
+alternative hypothesis	alternativehypothesis
+prediction intervals	predictionintervals
+various	various
+quantitative	quantitative
+multiple response	multipleresponse
+positive relationship	positiverelationship
+transformation	transformation
+cumulative distribution function	cumulativedistributionfunction
+multiple correlation coefficient	multiplecorrelationcoefficient
+likelihood function	likelihoodfunction
+comparison	comparison
+distribution	distribution
+test	test
+skewed distribution	skeweddistribution
+partial correlation	partialcorrelation
+table	table
+negative relationship	negativerelationship
+absolute value	absolutevalue
+kernal	kernal
+relationship	relationship
+value of estimator	valueofestimator
+acceptable region	acceptableregion
+total	total
+discriminatory analysis	discriminatoryanalysis
+risk function	riskfunction
+standard deviation	standarddeviation
+range	range
+standard error of mean	standarderrorofmean
+stud. deleted residual	studdeletedresidual
+category	category
+fixed variable	fixedvariable
+pie chart	piechart
+statistic	statistic
+sampling inspection	samplinginspection
+classify	classify
+definition	definition
+null hypothesis	nullhypothesis
+paired observations	pairedobservations
+percent	percent
+power	power
+linear	linear
+equal size	equalsize
+predict	predict
+large sample problem	largesampleproblem
+dimension	dimension
+uniform distribution	uniformdistribution
+least-square method	leastsquaremethod
+measure	measure
+run test	runtest
+band	band
+interaction	interaction
+regression coefficient	regressioncoefficient
+dependent variable	dependentvariable
+cubic term	cubicterm
+assumption	assumption
+fixed model	fixedmodel
+variance	variance
+qadratic	qadratic
+std. residual	stdresidual
+probability density function	probabilitydensityfunction
+random number	randomnumber
+polynomial curve	polynomialcurve
+quartiles	quartiles
+discrete variable	discretevariable
+inverse	inverse
+separately	separately
+estimate	estimate
+chi-square distribution	chisquaredistribution
+covariance matrix	covariancematrix
+order statistics	orderstatistics
+deviations	deviations
+parameter estimation	parameterestimation
+discriminant function	discriminantfunction
+optimal	optimal
+residual	residual
+eaqual	eaqual
+analysis of covariance	analysisofcovariance
+effects of interaction	effectsofinteraction
+weight	weight
+hypothesis test	hypothesistest
+multiple correlation	multiplecorrelation
+missing values	missingvalues
+estimations	estimations
+regression analysis	regressionanalysis
+noparametric tests	noparametrictests
+error	error
+proability	proability
+main effect	maineffect
+leverage value	leveragevalue
+function	function
+smooth	smooth
+matrix	matrix
+spread	spread
+sort	sort
+estimation of parameters	estimationofparameters
+multivariate analysis	multivariateanalysis
+t-test	ttest
+one-way ANOVA	onewayANOVA
+diagnostic	diagnostic
+expected value	expectedvalue
+standardization	standardization
+analysis	analysis
+optimum allocation	optimumallocation
+soruces of variation	sorucesofvariation
+full factorial design	fullfactorialdesign
+unbalanced	unbalanced
+subsamples	subsamples
+treatment	treatment
+variance components	variancecomponents
+balanced	balanced
+normal distribution	normaldistribution
+calculate	calculate
+efficiency	efficiency
+poisson distribution	poissondistribution
+unbiased estimation	unbiasedestimation
+test rules	testrules
+level of significance	levelofsignificance
+crosstab	crosstab
+analysis of variance	analysisofvariance
+model	model
+factor analysis	factoranalysis
+D-optimal design	Doptimaldesign
+multicollinearity	multicollinearity
+curve estimation	curveestimation
+F-test	Ftest
+exponential	exponential
+between groups	betweengroups
+additivity	additivity
+degree of freedom	degreeoffreedom
+logarithmic	logarithmic
+percentiles	percentiles
+compound	compound
+binomial test	binomialtest
+maximum likelihood estimation	maximumlikelihoodestimation
+design of experiment	designofexperiment
+logarithms	logarithms
+weighted average	weightedaverage
+paired-sample	pairedsample
+accept	accept
+linear term	linearterm
+lost function	lostfunction
+index	index
+bias	bias
+density function	densityfunction
+repeated	repeated
+life test	lifetest
+linear regression	linearregression
+critical point	criticalpoint
+quadratic term	quadraticterm
+origin	origin
+adjusted	adjusted
+life	life
+fractional factorial design	fractionalfactorialdesign
+layer	layer
+quality control	qualitycontrol
+group	group
+level	level
+outliers	outliers
+least-square estimation	leastsquareestimation
+control charts	controlcharts
+vector	vector
+chi-square test	chisquaretest
+regression line	regressionline
+rank correlation	rankcorrelation
+equation	equation
+test criterion	testcriterion
+expectation	expectation
+confidence interval	confidenceinterval
+homogeneity of variance	homogeneityofvariance
+rank	rank
+description	description
+independence	independence
+data	data
+sample size	samplesize
+predicted value	predictedvalue
+random sampling	randomsampling
+interclass correlation	interclasscorrelation
+intraclass correlation	intraclasscorrelation
+central tendency	centraltendency
+standardize	standardize
+variance ratio	varianceratio
+statistical quality control	statisticalqualitycontrol
+probit analysis	probitanalysis
+linear relation	linearrelation
+nonlinear	nonlinear
+cluster analysis	clusteranalysis
+fitted line	fittedline
+significant	significant
+fitted value	fittedvalue
+Monte Carle method	MonteCarlemethod
+distance	distance
+media	media
+partial regression coefficient	partialregressioncoefficient
+within groups	withingroups
+nonlinear regression	nonlinearregression
+polynomials	polynomials
+consistency	consistency
+test for linearity	testforlinearity
+logistic	logistic
+random	random
+eigenvalue	eigenvalue
+space	space
+bar chart	barchart
+moving average	movingaverage
+number of cases	numberofcases
+skewness	skewness
+tolerance limits	tolerancelimits
+significance	significance
+mode	mode
+coefficient	coefficient
+constant	constant
+nonadditively	nonadditively
+orthogonal	orthogonal
+Kolmogorov-Smirnov	KolmogorovSmirnov
+S-curve	Scurve
+one-way classification	onewayclassification
+mean sum of square	meansumofsquare
+test of independence	testofindependence
+average	average
+test statistics	teststatistics
+components	components
+arithmetic mean	arithmeticmean
+proportion	proportion
+beta-distribution	betadistribution
+homogeneity	homogeneity
+random variable	randomvariable
+stepwise regression analysis	stepwiseregressionanalysis
+hypothesis	hypothesis
+summary	summary
+binomial distribution	binomialdistribution
+histogram	histogram
+principal component analysis	principalcomponentanalysis
+sets	sets
+root mean square	rootmeansquare
+kurtosis	kurtosis
+iterate	iterate
+extreme value	extremevalue
+evaluate	evaluate
+case	case
+reject	reject
+test of homogeneity	testofhomogeneity
+report	report
+column	column
+partial correlation coefficient	partialcorrelationcoefficient
+square	square
+availability	availability
+reliability	reliability
+assumption checking	assumptionchecking
+sample	sample
+significance testing	significancetesting
+random seed	randomseed
+parameter	parameter
+center of gravity	centerofgravity
+index of correlation	indexofcorrelation
+one-sample	onesample
+continuous variable	continuousvariable
+linear estimator	linearestimator
+factor	factor
+default	default
+fit	fit
+sufficient statistic	sufficientstatistic
+unbiasedness	unbiasedness
+association	association
+rejection region	rejectionregion
+exponential distributon	exponentialdistributon
+deleted residual	deletedresidual
+likelihood ratio test	likelihoodratiotest
+rank statistic	rankstatistic
+independent variable	independentvariable
+small sample problem	smallsampleproblem
+Q-Q plot	QQplot
+critical value	criticalvalue
+exact value	exactvalue
+multiple regression equation	multipleregressionequation
+multiple comparison	multiplecomparison
+trimmed mean	trimmedmean
+t-distribution	tdistribution
+gamma distribution	gammadistribution
+sign test	signtest
+response	response
+covariance	covariance
+M-estimator	Mestimator
+Z score	Zscore
+true value	truevalue
+variable	variable
+one-tailed test	onetailedtest
